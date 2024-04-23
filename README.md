@@ -53,3 +53,6 @@ Welcome to the Programming Puzzles Collection! This repository contains a variet
 **Description:** Find the best word to play in Scrabble from a dictionary.  
 **Learning Opportunity:** Associative arrays, scoring methodology.
 
+## Certification Below
+(https://github.com/akramguediri/CG_solutions_py/blob/main/Certification.pdf)
+
