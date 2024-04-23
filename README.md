@@ -41,13 +41,13 @@ Welcome to the Programming Puzzles Collection! This repository contains a variet
 **Learning Opportunity:** String manipulation, encoding techniques.
 
 
-### 7. Maximal Drop
+### 7. Stock Exchange losses
 
 **Concepts:** Arrays, loops, conditions  
 **Description:** Find the maximal drop in a list of numbers.  
 **Learning Opportunity:** Nested loops, associative arrays.
 
-### 8. Best Scrabble Word
+### 8. Scrabble
 
 **Concepts:** Loops, conditions  
 **Description:** Find the best word to play in Scrabble from a dictionary.  
